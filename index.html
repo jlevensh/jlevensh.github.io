@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Julia Levenshteyn</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #24292e;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .sidebar {
+    width: 280px;
+    flex-shrink: 0;
+    padding: 40px 24px;
+    overflow-y: auto;
+    height: 100vh;
+    border-right: 1px solid #e1e4e8;
+  }
+  .sidebar img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  .sidebar h1 {
+    font-size: 1.5em;
+    margin: 0 0 16px 0;
+    color: #0366d6;
+  }
+  .sidebar p {
+    margin: 6px 0;
+    font-size: 0.95em;
+  }
+  .sidebar a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+  .main-content {
+    flex: 1;
+    padding: 40px 48px;
+    overflow-y: auto;
+    height: 100vh;
+    line-height: 1.6;
+  }
+  .main-content h2 {
+    margin-top: 32px;
+    border-bottom: 1px solid #e1e4e8;
+    padding-bottom: 6px;
+  }
+  .main-content h3 {
+    margin-top: 24px;
+  }
+  .main-content a {
+    color: #0366d6;
+  }
+</style>
+</head>
+<body>
+
+  <aside class="sidebar">
+    <img src="assets/photo.jpg" alt="Julia Levenshteyn">
+    <h1>Julia Levenshteyn</h1>
+    <p>GitHub: <a href="https://github.com/jlevensh">jlevensh</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin">your-linkedin</a></p>
+    <p>Email: <a href="mailto:jlevensh@gmail.com">jlevensh@gmail.com</a></p>
+  </aside>
+
+  <main class="main-content">
+    <p>I'm an undergraduate researcher working with Dr. Wei Chen and Dr. Sinan Keten at Northwestern University. My research focuses on machine learning methods for extracting and explaining relationships that drive biomedical and chemical properties &mdash; spanning explainability in sequence-to-property modeling and, more recently, using large language models to extract causal relationships from biomedical and chemical data.</p>
+
+    <h2>Research</h2>
+
+    <h3>FEXS (Faithful EXplainability Score for Sequences)</h3>
+    <p>Developed during the Northwestern MRSEC REU program and continued over a full year, FEXS is a quantitative metric for evaluating how faithfully attribution methods identify the sequence positions that drive a predicted biological property. Benchmarked across six datasets spanning peptides, proteins, and synthetic polymers. First-author manuscript, currently under review.</p>
+
+    <h3>LLMs for Causal Extraction</h3>
+    <p>Ongoing work in the Chen and Keten labs investigating how large language models can extract causal, not just correlational, relationships between molecular structure and function from biomedical and chemical text and data.</p>
+
+    <h2>Publications</h2>
+    <p><em>[Manuscript title]</em> &mdash; Julia Levenshteyn, Akash Pandey, Wei Chen, Sinan Keten. Under review.</p>
+  </main>
+
+</body>
+</html>
