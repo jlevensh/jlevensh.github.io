@@ -2,9 +2,11 @@
 theme: jekyll-theme-minimal
 title: "Julia Levenshteyn"
 author: "Julia Levenshteyn"
-email: "j8476124508@gmail.com"
-description: "Research on explainable ML and LLM-based causal extraction for biomedical and chemical applications."
+email: "jlevensh@gmail.com"
+description: "I am a 4th-year undergraduate student at Lake Forest College pursuing a major in Data Science and Chemistry with a minor in Math.
+I currently work with Dr. Chen and Dr. Keten from Northwestern on LLM-based causal extraction for materials science application.
+I previously worked on the FEXES metric for quantifying explainability in sequence-to-property prediction for materials such as proteins and polymers.
 
 social_links:
-  GitHub: https://github.com/your-username
-  LinkedIn: https://www.linkedin.com/in/your-linkedin
+  GitHub: https://github.com/jlevensh
+  LinkedIn: https://www.linkedin.com/in/julialevenshteyn/
