@@ -1,7 +1,7 @@
 # Julia Levenshteyn
 
-Contact: [j8476124508@gmail.com](mailto:j8476124508@gmail.com)
-GitHub: [your-username](https://github.com/your-username)
+Contact: [jlevensh@gmail.com](mailto:jlevensh@gmail.com)
+GitHub: [jlevensh](https://github.com/jlevensh)
 [CV](docs/cv.pdf)
 
 I'm an undergraduate researcher working with Dr. Wei Chen and Dr. Sinan Keten at Northwestern University. My research focuses on machine learning methods for extracting and explaining relationships that drive biomedical and chemical properties — spanning explainability in sequence-to-property modeling and, more recently, using large language models to extract causal relationships from biomedical and chemical data.
@@ -14,8 +14,6 @@ I'm an undergraduate researcher working with Dr. Wei Chen and Dr. Sinan Keten at
 
 ## Publications
 
-*[Manuscript title]* — Julia Levenshteyn, Akash Pandey, Wei Chen, Sinan Keten. Under review.
+*[Faithful Metrics for Quantifying Explainability
+in Biological Sequences]* — Julia Levenshteyn, Akash Pandey, Wei Chen, Sinan Keten. Under review.
 
-## Other
-
-[Blog](blog.html) &middot; [CV](docs/cv.pdf)
