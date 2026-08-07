@@ -1,0 +1,10 @@
+# 1. Site settings
+theme: jekyll-theme-minimal
+title: "Julia Levenshteyn"
+author: "Julia Levenshteyn"
+email: "j8476124508@gmail.com"
+description: "Research on explainable ML and LLM-based causal extraction for biomedical and chemical applications."
+
+social_links:
+  GitHub: https://github.com/your-username
+  LinkedIn: https://www.linkedin.com/in/your-linkedin
